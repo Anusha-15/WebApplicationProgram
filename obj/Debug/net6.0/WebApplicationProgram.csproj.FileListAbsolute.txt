@@ -38,3 +38,10 @@ D:\ASP.Net core 6  web api\WebApplicationProgram\WebApplicationProgram\obj\Debug
 D:\ASP.Net core 6  web api\WebApplicationProgram\WebApplicationProgram\obj\Debug\net6.0\WebApplicationProgram.pdb
 D:\ASP.Net core 6  web api\WebApplicationProgram\WebApplicationProgram\obj\Debug\net6.0\WebApplicationProgram.genruntimeconfig.cache
 D:\ASP.Net core 6  web api\WebApplicationProgram\WebApplicationProgram\obj\Debug\net6.0\ref\WebApplicationProgram.dll
+D:\ASP.Net core 6  web api\WebApplicationProgram\WebApplicationProgram\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\ASP.Net core 6  web api\WebApplicationProgram\WebApplicationProgram\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\ASP.Net core 6  web api\WebApplicationProgram\WebApplicationProgram\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\ASP.Net core 6  web api\WebApplicationProgram\WebApplicationProgram\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\ASP.Net core 6  web api\WebApplicationProgram\WebApplicationProgram\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ASP.Net core 6  web api\WebApplicationProgram\WebApplicationProgram\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ASP.Net core 6  web api\WebApplicationProgram\WebApplicationProgram\obj\Debug\net6.0\WebApplicationProgram.csproj.CopyComplete
