@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WebApplicationProgram/1.0.0": {
+        "runtime": {
+          "WebApplicationProgram.dll": {}
+        },
+        "resources": {
+          "en/WebApplicationProgram.resources.dll": {
+            "locale": "en"
+          },
+          "fr/WebApplicationProgram.resources.dll": {
+            "locale": "fr"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApplicationProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
